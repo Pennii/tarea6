@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+    margin: 0;
+}
+header{
+    background-color: green;
+    padding: 1rem;
+    text-align: center;
+}
+
+.imagenes{
+    margin-right:auto;
+    margin-left: auto;
+}
+img{
+    width: 400px;
+}
